@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alunos\\Documents\\juanst07\\Projeto-ASP.NET\\TarefasApp\\TarefasApp.csproj": {}
+    "C:\\Users\\Alunos\\Documents\\lc 2025 rsrsrs\\Projeto-TABELA\\TarefasApp\\TarefasApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alunos\\Documents\\juanst07\\Projeto-ASP.NET\\TarefasApp\\TarefasApp.csproj": {
+    "C:\\Users\\Alunos\\Documents\\lc 2025 rsrsrs\\Projeto-TABELA\\TarefasApp\\TarefasApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\juanst07\\Projeto-ASP.NET\\TarefasApp\\TarefasApp.csproj",
+        "projectUniqueName": "C:\\Users\\Alunos\\Documents\\lc 2025 rsrsrs\\Projeto-TABELA\\TarefasApp\\TarefasApp.csproj",
         "projectName": "TarefasApp",
-        "projectPath": "C:\\Users\\Alunos\\Documents\\juanst07\\Projeto-ASP.NET\\TarefasApp\\TarefasApp.csproj",
+        "projectPath": "C:\\Users\\Alunos\\Documents\\lc 2025 rsrsrs\\Projeto-TABELA\\TarefasApp\\TarefasApp.csproj",
         "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alunos\\Documents\\juanst07\\Projeto-ASP.NET\\TarefasApp\\obj\\",
+        "outputPath": "C:\\Users\\Alunos\\Documents\\lc 2025 rsrsrs\\Projeto-TABELA\\TarefasApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
